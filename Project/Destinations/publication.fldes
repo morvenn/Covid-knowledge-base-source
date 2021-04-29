@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host=""
+  User="MyAccountId"
+  Password=""
+  Directory="C:\Users\morven\Desktop\Podyplomowe\Flare\C19_KB_output\Output\HTML5"
+  Port=""
+  ViewUrl="https://morvenn.github.io/Covid-knowledge-base/"
+  Type="scm"
+  ProviderType="Git"
+  Database="C:\Users\morven\Desktop\Podyplomowe\Flare\C19_KB_output\Output\HTML5\.git"
+  DatabaseRoot="C:\Users\morven\Desktop\Podyplomowe\Flare\C19_KB_output\Output\HTML5"
+  PushToRemote="true"
+  RemoteRepository="c19kb-github"
+  UploadLogFile="false"
+  RemoveStale="false"
+  ChangedOnly="false"></CatapultDestination>

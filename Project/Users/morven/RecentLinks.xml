@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RecentLinks>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
+        <Link Value="C:\Users\morven\Desktop\Podyplomowe\Flare\COVID-19_Knowledge_Base\Content\MainTopics\After_the_illness.htm" />
+    </Dialog>
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
+        <Link Value="C:\Users\morven\AppData\Local\Temp\MadCap Software\Flare\SkinEditor\_4F883FEA\Logo.png" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
+        <Link Value="C:\Users\morven\Desktop\Podyplomowe\Flare\COVID-19_Knowledge_Base\Content\MainTopics\Covid-19_vaccine.htm" />
+    </Dialog>
+</RecentLinks>

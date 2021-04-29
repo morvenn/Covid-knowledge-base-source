@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Name="Email"
+    Comment=""
+    EvaluatedDefinition="mniedzw2@stu.vistula.edu.pl">mniedzw2@stu.vistula.edu.pl</Variable>
+  <Variable
+    Name="CityState"
+    Comment=""
+    EvaluatedDefinition="Warsaw">Warsaw</Variable>
+  <Variable
+    Name="Output"
+    Comment=""
+    EvaluatedDefinition="manual">manual</Variable>
+  <Variable
+    Name="Output"
+    Comment=""
+    EvaluatedDefinition="website">website</Variable>
+  <Variable
+    Name="Title"
+    Comment=""
+    OriginalName="PDFGuideTitle"
+    EvaluatedDefinition="COVID-19 for dummies - a knowledge base">COVID-19 for dummies - a knowledge base</Variable>
+  <Variable
+    Name="VersionNumber"
+    OriginalName="VersionNumberDot">1.0</Variable>
+  <Variable
+    Name="Year"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2016-02-16T22:11:15.8176589-08:00"
+    EvaluatedDefinition="yyyy">yyyy</Variable>
+  <Variable
+    Name="Author"
+    Comment=""
+    EvaluatedDefinition="Magda Niedźwiecka Pruszkowska">Magda Niedźwiecka Pruszkowska</Variable>
+</CatapultVariableSet>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterPage="/Content/Resources/MasterPages/Other-Topics.flmsp"
+  DefaultUrl="/Content/index.htm"
+  ConditionTagExpression="include[Default.ScreenOnly] exclude[Default.PrintOnly] "
+  OutputFolder="C:\Users\morven\Desktop\Podyplomowe\Flare\C19_KB_output"
+  Skin="/Project/Skins/Side-Navigation.flskn"
+  OutputFile="index.html"
+  TabletBreakpoint="1294"
+  GetLatestBeforeCompile="true"
+  MakeFileLowerCase="false">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="doc" />
+  <Variables>
+    <Variable
+      Name="General/Output">website</Variable>
+  </Variables>
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/publication.fldes"
+      Publish="true"
+      IsResource="false" />
+  </Destinations>
+</CatapultTarget>

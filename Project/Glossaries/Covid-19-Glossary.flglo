@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    glossTerm="Covid-19-Glossary.Term0"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>The Social Insurance Institution</Term>
+    </Terms>
+    <Definition
+      Link="">The Social Insurance Institution (ZUS) - Polish state organization responsible for social insurance matters. ZUS is supervised by the Ministry of Labour and Social Policy. ZUS carries out the following tasks: establishing entitlement to social insurance benefits, paying out social insurance benefits, assessing and collecting social insurance and health insurance contributions and contributions to the Labour Fund and the Fund of Guaranteed Employee Benefits, maintaining individual accounts for those insured and the accounts of contribution payers.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Covid-19-Glossary.Term1"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>The sanitary-epidemiological station (Sanepid)</Term>
+    </Terms>
+    <Definition
+      Link="">Polish institution that carries out public health tasks by controlling and supervising hygiene conditions in various areas of life.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Covid-19-Glossary.Term2"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>PESEL</Term>
+    </Terms>
+    <Definition
+      Link="">personal identity number in Poland</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Covid-19-Glossary.Term3"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Quarantine</Term>
+    </Terms>
+    <Definition
+      Link="">a restriction on the movement of people, animals and goods which is intended to prevent the spread of disease or pests. It is often used in connection to disease and illness, preventing the movement of those who may have been exposed to a communicable disease, yet do not have a confirmed medical diagnosis.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Covid-19-Glossary.Term4"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>112, 999</Term>
+    </Terms>
+    <Definition
+      Link="">emergency telephone numbers in Poland. 999 number is used for calling an ambulance.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Covid-19-Glossary.Term5"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Ventilator</Term>
+    </Terms>
+    <Definition
+      Link="">a machine that provides mechanical ventilation by moving breathable air into and out of the lungs, to deliver breaths to a patient who is physically unable to breathe, or breathing insufficiently.</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>
