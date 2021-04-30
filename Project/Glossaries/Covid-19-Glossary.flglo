@@ -8,7 +8,7 @@
       <Term>The Social Insurance Institution</Term>
     </Terms>
     <Definition
-      Link="">The Social Insurance Institution (ZUS) - Polish state organization responsible for social insurance matters. ZUS is supervised by the Ministry of Labour and Social Policy. ZUS carries out the following tasks: establishing entitlement to social insurance benefits, paying out social insurance benefits, assessing and collecting social insurance and health insurance contributions and contributions to the Labour Fund and the Fund of Guaranteed Employee Benefits, maintaining individual accounts for those insured and the accounts of contribution payers.</Definition>
+      Link="">Polish state organization responsible for social insurance matters. ZUS is supervised by the Ministry of Labour and Social Policy. ZUS carries out the following tasks: establishing entitlement to social insurance benefits, paying out social insurance benefits, assessing and collecting social insurance and health insurance contributions and contributions to the Labour Fund and the Fund of Guaranteed Employee Benefits, maintaining individual accounts for those insured and the accounts of contribution payers.</Definition>
   </GlossaryEntry>
   <GlossaryEntry
     glossTerm="Covid-19-Glossary.Term1"
@@ -59,5 +59,55 @@
     </Terms>
     <Definition
       Link="">a machine that provides mechanical ventilation by moving breathable air into and out of the lungs, to deliver breaths to a patient who is physically unable to breathe, or breathing insufficiently.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Covid-19-Glossary.Term6"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Diarrhoea</Term>
+    </Terms>
+    <Definition
+      Link="">passing looser or more frequent stools than is normal for you.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Covid-19-Glossary.Term7"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Conjunctivis</Term>
+    </Terms>
+    <Definition
+      Link="">also known as pinkeye, is an inflammation of the conjunctiva. The conjunctiva is the thin clear tissue that lies over the white part of the eye and lines the inside of the eyelid.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Covid-19-Glossary.Term8"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Pneumonia</Term>
+    </Terms>
+    <Definition
+      Link="">an infection that inflames the air sacs in one or both lungs.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Covid-19-Glossary.Term9"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>The European Medicines Agency</Term>
+    </Terms>
+    <Definition
+      Link="">an agency of the European Union (EU) in charge of the evaluation and supervision of medicinal products.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Covid-19-Glossary.Term10"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Nasopharyngeal swab</Term>
+    </Terms>
+    <Definition
+      Link="">a method for collecting a clinical test sample of nasal secretions from the back of the nose and throat.</Definition>
   </GlossaryEntry>
 </CatapultGlossary>

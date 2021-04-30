@@ -87,5 +87,8 @@
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
+    Link="/Content/MainTopics/References.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
     Link="/Content/MainTopics/Glosariusz.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
 </CatapultToc>
